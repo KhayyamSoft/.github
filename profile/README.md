@@ -1,13 +1,12 @@
 <div align="center">
   
 ### Khayyam Software Solutions
-### Is an Iranian Development Team Expert In Automation Projects I am [Ali Sepehrnia](https://alisepehrnia.github.io/) | .NET Developer Expert In Desktop Applications
-
+## Is an Iranian Development Team Expert In Automation Projects
 ##
-Contact me:
+Contact us:
 
 [![Gmail](https://img.shields.io/badge/admin@khayyamsoft.ir-EA4335?style=flat-square&logo=email&logoColor=white)](mailto:admin@khayyamsoft.ir)
-[![Website](https://img.shields.io/badge/khayyamsoft-0077b5?style=flat-square&logo=web&logoColor=white)](https://khayyamsoft.ir) 
+[![Website](https://img.shields.io/badge/khayyamsoft.ir-0077b5?style=flat-square&logo=web&logoColor=white)](http://khayyamsoft.ir) 
   
 </div>
 
