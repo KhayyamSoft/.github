@@ -1,7 +1,7 @@
 <div align="center">
   
-## Khayyam Software Solutions
-### Is an Iranian Development Team Expert In Automation Projects
+# Khayyam Software Solutions
+### An Iranian Development Team Expert In Automation Projects</h3>
 ##
 Contact us:
 
@@ -29,13 +29,3 @@ Contact us:
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Phtoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=black)
-  
-##
-
-<div align="center">
-  
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisepehrnia&hide=javascript,html,css&layout=compact)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khayyamsoft&layout=compact&theme=radical&hide=html,css)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayyamsoft&count_private=true&show_icons=true&theme=radical)
-  
-</div>
