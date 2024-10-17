@@ -1,12 +1,14 @@
 <div align="center">
   
 # Khayyam Software Solutions
-### An Iranian Development Team Expert In Automation Projects</h3>
+### Design and develop cloud-based automation web applications
+We are team of Persian software engineers and designers help small to medium sized companies migrate from traditional paper-based firms to innovative cloud enabled digital platforms.
 ##
 Contact us:
 
 [![Gmail](https://img.shields.io/badge/admin@khayyamsoft.ir-EA4335?style=flat-square&logo=email&logoColor=white)](mailto:admin@khayyamsoft.ir)
-[![Website](https://img.shields.io/badge/khayyamsoft.ir-0077b5?style=flat-square&logo=web&logoColor=white)](http://khayyamsoft.ir) 
+[![Website](https://img.shields.io/badge/khayyamsoft.ir-0077b5?style=flat-square&logo=web&logoColor=white)](http://khayyamsoft.ir)
+[![Website](https://img.shields.io/badge/Khayyam_Software_Solutions-0077b5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/khayyam-soft)
   
 </div>
 
